@@ -1,0 +1,3 @@
+Category | Note | Amount
+Job | Salary | +1000
+Stationary | Pen | -20
